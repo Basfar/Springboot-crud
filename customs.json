@@ -1,0 +1,12 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:src": {},
+        "th:href": {
+            "context": "link"
+        },
+        "th:fragment": {
+            "context": "div"
+        }
+    }
+}
